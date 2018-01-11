@@ -1,0 +1,5 @@
+*.swp
+secrets.txt
+src.zip
+tmp/
+venv/
