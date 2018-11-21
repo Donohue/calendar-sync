@@ -12,7 +12,7 @@ Run the following commands to set up your environment:
 pip install virtualenv
 virtualenv venv
 source venv/bin/activate
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 
