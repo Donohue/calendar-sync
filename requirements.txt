@@ -5,7 +5,7 @@ pyasn1==0.1.9
 pyasn1-modules==0.0.8
 python-dateutil==2.5.3
 pytz==2016.6.1
-rsa==4.1
+rsa==4.7
 simplejson==3.8.2
 six==1.10.0
 uritemplate==0.6
